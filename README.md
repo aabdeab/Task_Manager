@@ -195,16 +195,6 @@ The application uses JWT-based authentication. The authentication context is man
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License.
-
-## 👥 Authors
-
-AABDANE ABDELKARIM 
-
-## 🙏 Acknowledgments
-
-- Material-UI for the excellent component library
-- Vite for the blazing-fast build tool
-- React team for the amazing framework
+**tip : You can find the backend here  https://github.com/aabdeab/Tasks_management
+ demo :  https://drive.google.com/file/d/1kmfvSfKUULGv7cpSEnN18fHmCT1mnC_M/view?usp=sharing
