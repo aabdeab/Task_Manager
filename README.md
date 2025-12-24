@@ -2,7 +2,21 @@
 
 A modern, responsive task management application built with React and Material-UI. This application allows users to manage projects and tasks with features like user authentication, project creation, task assignment, and real-time updates.
 
-## 📋 Features
+## � Screenshots
+
+### Login Page
+![Login](static/login.png)
+
+### Sign Up Page
+![Sign Up](static/SignUp.png)
+
+### Projects Dashboard
+![Projects Dashboard](static/projects.png)
+
+### Task Management
+![Tasks](static/Tasks.png)
+
+## �📋 Features
 
 - **User Authentication**: Secure login and registration system
 - **Project Management**: Create, view, and manage multiple projects
